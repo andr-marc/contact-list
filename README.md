@@ -2,6 +2,6 @@
 
 App feito em Flutter para estudos de front-end.
 
-![Print](/public/print.png)
+<img src="/public/print.png" alt="Lista de contatos" style="width:30%; height:30%" />
 
 Um `ListView` foi usado pra listar os contatos estáticos.
